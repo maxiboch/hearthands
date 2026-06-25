@@ -9,9 +9,15 @@ description: Explore intent and design through care, sustainability, and mainten
 
 Use this before creative or ambiguous work.
 
+## Maxi Emoji Call
+
+`🫶🧠` is the Maxi-world call for care-oriented brainstorming.
+
+`🫶⛈️` is a stormier alias for idea generation when the work needs broader exploration before narrowing.
+
 ## Pattern
 
-1. Restate the user's aim in plain language.
+1. Restate the user aim in plain language.
 2. Ask what outcome would feel useful, humane, and maintainable.
 3. Separate must-haves from nice-to-haves.
 4. Identify the maintenance burden each option creates.
@@ -24,4 +30,3 @@ Use this before creative or ambiguous work.
 - What does this make harder?
 - What can we avoid owning?
 - What evidence would change our mind?
-

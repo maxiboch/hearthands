@@ -20,23 +20,39 @@ This map tracks how Hearthands replaces Superpowers through care-oriented equiva
 | writing-plans | reframe | hearthands-planning | clear handoff as care | Preserve tactical rigor while removing hostile or performative tone. |
 | verification-before-completion | reframe | hearthands-verification | evidence before confidence | First-batch rewrite. |
 | systematic-debugging | reframe | hearthands-debugging | patient evidence before intervention | First-batch rewrite. |
-| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review after the first batch. |
-| receiving-code-review | merge | hearthands-review | humility with evidence | Preserve technical rigor without performative agreement. |
-| using-git-worktrees | reframe | hearthands-containment | reversibility and containment | Treat isolated workspaces as care for shared state. |
-| writing-skills | reframe | hearthands-skillwriting | durable care instructions | Needed before broad replacement. |
+| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. First batch complete. |
+| receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. First batch complete. |
+| using-git-worktrees | reframe | hearthands-containment | reversibility and containment | Treat isolated workspaces as care for shared state. Complete. |
+| writing-skills | reframe | hearthands-skillwriting | durable care instructions | Needed before broad replacement. Pending. |
 | dispatching-parallel-agents | pending | hearthands-parallel-care | coordination without context loss | Needs corpus review around sustainability and fragmentation. |
 | subagent-driven-development | pending | hearthands-delegation | reviewable delegation | Needs careful framing to avoid outsourcing judgment. |
-| executing-plans | reframe | hearthands-execution | steady follow-through | Should pair with planning and verification. |
-| test-driven-development | reframe | hearthands-small-promises | witnessed behavior before trust | Translate TDD into care language without losing discipline. |
-| finishing-a-development-branch | reframe | hearthands-handoff | leave the branch understandable | Connect integration choices to shared maintenance. |
+| executing-plans | reframe | hearthands-execution | steady follow-through | Should pair with planning and verification. Complete. |
+| test-driven-development | reframe | hearthands-small-promises | witnessed behavior before trust | Translate TDD into care language without losing discipline. Complete. |
+| finishing-a-development-branch | reframe | hearthands-handoff | leave the branch understandable | Connect integration choices to shared maintenance. Complete. |
 
-## First Rewrite Batch
+## Completed Skills
+
+### First Rewrite Batch
 
 1. `hearthands-verification`: evidence before confidence.
 2. `hearthands-debugging`: patient evidence before intervention.
 3. `hearthands-planning`: clear handoff as care.
 
 These are first because they affect agent honesty, risk, and handoff quality across nearly every development workflow.
+
+### Second Rewrite Batch
+
+1. `hearthands-execution`: steady follow-through with care.
+2. `hearthands-handoff`: leave the branch understandable.
+3. `hearthands-containment`: reversibility and containment.
+4. `hearthands-small-promises`: witnessed behavior before trust.
+5. `hearthands-review`: care for the next reader.
+
+## Remaining Work
+
+- `hearthands-skillwriting`: durable care instructions (from `writing-skills`).
+- `hearthands-parallel-care`: coordination without context loss (from `dispatching-parallel-agents`).
+- `hearthands-delegation`: reviewable delegation (from `subagent-driven-development`).
 
 ## Open Questions
 

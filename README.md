@@ -35,6 +35,11 @@ Prefer care over spectacle, evidence over panic, and sustainable progress over p
 - `hearthands-verification`: evidence before confidence when claiming work is complete, fixed, passing, or ready to hand off.
 - `hearthands-debugging`: patient evidence before intervention when behavior is failing, flaky, surprising, or only partly understood.
 - `hearthands-planning`: clear handoff as care when work needs durable steps before implementation, delegation, or handoff.
+- `hearthands-execution`: steady follow-through with care when executing written implementation plans.
+- `hearthands-handoff`: leave the branch understandable when completing development work and choosing merge, PR, or cleanup.
+- `hearthands-containment`: reversibility and containment using isolated workspaces as care for shared state.
+- `hearthands-small-promises`: witnessed behavior before trust when implementing features or bugfixes.
+- `hearthands-review`: care for the next reader when requesting, receiving, or acting on code review.
 
 ## Roadmap
 

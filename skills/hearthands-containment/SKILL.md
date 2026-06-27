@@ -26,13 +26,13 @@ Reversibility and containment are care for shared state. An isolated workspace p
 ## Detection
 
 ```bash
-GIT_DIR=$(cd "$(git rev-parse --git-dir)" 2>/dev/null && pwd -P)
-GIT_COMMON=$(cd "$(git rev-parse --git-common-dir)" 2>/dev/null && pwd -P)
+GIT_DIR=$(cd "$(git rev-parse --git-dir 2>/dev/null)" 2>/dev/null && pwd -P)
+GIT_COMMON=$(cd "$(git rev-parse --git-common-dir 2>/dev/null)" 2>/dev/null && pwd -P)
 BRANCH=$(git branch --show-current)
 ```
 
-- `GIT_DIR != GIT_COMMON` (and not a submodule): already in a linked worktree.
-- `GIT_DIR == GIT_COMMON` or in a submodule: normal repo checkout.
+- `GIT_DIR` is non-empty and `GIT_DIR != GIT_COMMON` (and not a submodule): already in a linked worktree.
+- `GIT_DIR` is empty or `GIT_DIR == GIT_COMMON` or in a submodule: normal repo checkout.
 
 ## Creation Priority
 

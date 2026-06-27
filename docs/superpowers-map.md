@@ -20,8 +20,8 @@ This map tracks how Hearthands replaces Superpowers through care-oriented equiva
 | writing-plans | reframe | hearthands-planning | clear handoff as care | Preserve tactical rigor while removing hostile or performative tone. |
 | verification-before-completion | reframe | hearthands-verification | evidence before confidence | First-batch rewrite. |
 | systematic-debugging | reframe | hearthands-debugging | patient evidence before intervention | First-batch rewrite. |
-| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. First batch complete. |
-| receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. First batch complete. |
+| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. Second batch complete. |
+| receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. Second batch complete. |
 | using-git-worktrees | reframe | hearthands-containment | reversibility and containment | Treat isolated workspaces as care for shared state. Complete. |
 | writing-skills | reframe | hearthands-skillwriting | durable care instructions | Needed before broad replacement. Pending. |
 | dispatching-parallel-agents | pending | hearthands-parallel-care | coordination without context loss | Needs corpus review around sustainability and fragmentation. |

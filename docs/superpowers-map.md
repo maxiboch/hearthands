@@ -20,8 +20,8 @@ This map tracks how Hearthands replaces Superpowers through care-oriented equiva
 | writing-plans | reframe | hearthands-planning | clear handoff as care | Preserve tactical rigor while removing hostile or performative tone. |
 | verification-before-completion | reframe | hearthands-verification | evidence before confidence | First-batch rewrite. |
 | systematic-debugging | reframe | hearthands-debugging | patient evidence before intervention | First-batch rewrite. |
-| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. First batch complete. |
-| receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. First batch complete. |
+| requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. Second batch complete. |
+| receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. Second batch complete. |
 | using-git-worktrees | reframe | hearthands-containment | reversibility and containment | Treat isolated workspaces as care for shared state. Complete. |
 | writing-skills | reframe | hearthands-skillwriting | durable care instructions | Complete. Skills are tactical; history moved to README. |
 | dispatching-parallel-agents | reframe | hearthands-parallel-care | coordination without context loss | Complete. Parallel work as care, not speed theater. |
@@ -60,5 +60,4 @@ These are first because they affect agent honesty, risk, and handoff quality acr
 
 - Which Superpowers skills should be rejected rather than reframed?
 - Which skills belong as standalone Hearthands skills, and which should become sections inside larger skills?
-- How much public historical grounding belongs in each skill versus in a shared background document?
-- Which repeated moments from `.maxi/agent-history` deserve their own pressure scenarios?
+- Which repeated moments from the agent-history corpus deserve their own pressure scenarios?

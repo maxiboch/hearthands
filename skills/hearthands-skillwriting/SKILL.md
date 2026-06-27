@@ -2,7 +2,7 @@
 id: hearthands-skillwriting
 name: Hearthands Skillwriting
 source: hearthands
-description: Use when creating new skills, editing existing skills, or verifying skills work before deployment - treats skill creation as test-driven process documentation
+description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
 ---
 
 # Hearthands Skillwriting

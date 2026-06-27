@@ -9,7 +9,7 @@ This map distills the values that should govern Hearthands skill rewrites. It is
 This map is grounded in three sources:
 
 - The current Hearthands/Hairflip design conversation and corrections.
-- Bounded searches over `/Users/mboch/.maxi/session-archive`.
+- Bounded searches over the local agent-history session archive.
 - Existing project instructions that encode durable preferences around commits, attribution, verification, and agent behavior.
 
 The session archive searches showed recurring material around verification and completion claims, care/maintenance/handoff language, and metaphor/historical-grounding work. Some hits are task-output summaries rather than conversation prose, so this map should be treated as a first public distillation rather than a finished ethnography of the corpus.

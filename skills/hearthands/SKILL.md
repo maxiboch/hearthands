@@ -11,12 +11,6 @@ Use hearthands before broad development work, ambiguous implementation requests,
 
 Hearthands treats code as a shared living system. The goal is not agent heroics. The goal is to leave the project easier to understand, change, and trust.
 
-## Maxi Emoji Call
-
-`🫶🤲` is the Maxi-world call for the general Hearthands care loop.
-
-Use it when work needs grounded judgment: clarify intent, preserve context, reduce maintenance burden, verify with evidence, and leave the next person less stranded.
-
 ## Care Loop
 
 1. Clarify the real need.

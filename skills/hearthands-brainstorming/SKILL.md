@@ -9,12 +9,6 @@ description: Explore intent and design through care, sustainability, and mainten
 
 Use this before creative or ambiguous work.
 
-## Maxi Emoji Call
-
-`🫶🧠` is the Maxi-world call for care-oriented brainstorming.
-
-`🫶⛈️` is a stormier alias for idea generation when the work needs broader exploration before narrowing.
-
 ## Pattern
 
 1. Restate the user aim in plain language.

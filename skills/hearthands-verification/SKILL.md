@@ -44,6 +44,4 @@ Evidence before confidence. Verification is care for the person who has to trust
 
 Say what you checked, what happened, and what remains uncertain. If a check could not be run, say why and name the risk that leaves behind.
 
-## Lineage
 
-This skill draws from empirical software practice, test-first development, code review, operations handoff, and maintenance work. Its care claim is simple: do not hand someone uncertainty disguised as completion.

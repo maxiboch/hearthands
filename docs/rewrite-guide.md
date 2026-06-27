@@ -12,8 +12,8 @@ This guide explains how to turn an upstream Superpowers skill into a Hearthands 
 4. Rewrite the trigger description so agents load the skill for the right situations.
 5. Rewrite the body around care, sustainability, evidence, reversibility, and maintainer context.
 6. Preserve tactical clarity: exact steps, guardrails, and output expectations.
-7. Add historical grounding when it clarifies the practice.
-8. Remove public Maxi-specific call sections; keep emoji call context in Maxi import playbooks.
+7. Remove all historical grounding from the skill body — that content belongs in the project README.
+8. Remove any Maxi-specific tool cues (emoji call syntax, Maxi import playbook references, platform-specific dispatch instructions). Those belong in the Maxi world layer that manages and imports skills.
 9. Verify the skill has no private corpus quotes unless Max approved them.
 
 ## Skill Template
@@ -51,9 +51,7 @@ Evidence before confidence. Do not hand another person uncertainty disguised as 
 
 Name the command or inspection used, the result, and any residual risk.
 
-## Lineage
-
-Ground this in empirical software practice, test-first traditions, code review, operations handoff, and maintenance work.
+No Lineage section. History belongs in the README.
 ```
 
 ## Rewrite Quality Bar
@@ -64,15 +62,27 @@ Ground this in empirical software practice, test-first traditions, code review, 
 - The skill must not turn care into vague niceness.
 - The skill must preserve evidence, testing, and review where risk requires them.
 - The skill must not quote private corpus material without explicit approval.
+- The skill must not contain a Lineage section. History belongs in the README.
+- The skill must not contain Maxi-specific tool cues. Those belong in the Maxi world layer.
 
-## Historical Grounding Prompts
+## Historical Grounding Policy
 
-Use these prompts when deciding what lineage to mention:
+Do not include history in skill files. Skills are tactical guidance for agents. History is context for humans.
 
-- Is this practice related to Agile, Adaptive Software Development, XP, Lean, DevOps, maintenance, operations, or code review traditions?
-- Does historical grounding prevent the skill from sounding like a newly invented productivity slogan?
-- Would a brief hat tip help future contributors understand why the skill exists?
-- Is the lineage doing real explanatory work, or is it ornamental?
+Historical grounding belongs in the project README under a "Skill Lineage" or "Historical Grounding" section. The README can map each skill family to its tradition: Agile, Adaptive Software Development, XP, Lean, maintenance work, care ethics, etc.
+
+When rewriting a skill, ask: "Does this lineage help an agent follow the skill right now?" If the answer is no, it belongs in the README.
+
+## Maxi Tool Cues Policy
+
+Do not include Maxi-specific tool cues in skill files. This includes:
+
+- Emoji call syntax (e.g., `📁📖`, `⚡▶️`, `🌿📊`)
+- Maxi import playbook references
+- Platform-specific dispatch instructions
+- References to Maxi-specific concepts like "category", "emoji flags", "corner brackets"
+
+These cues belong in the Maxi world layer that manages and imports skills, not in the skill repos themselves.
 
 ## Public/Private Boundary
 

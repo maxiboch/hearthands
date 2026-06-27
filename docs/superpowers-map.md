@@ -23,14 +23,16 @@ This map tracks how Hearthands replaces Superpowers through care-oriented equiva
 | requesting-code-review | merge | hearthands-review | care for the next reader | Merge with receiving-code-review. First batch complete. |
 | receiving-code-review | merge | hearthands-review | humility with evidence | Merge with requesting-code-review. First batch complete. |
 | using-git-worktrees | reframe | hearthands-containment | reversibility and containment | Treat isolated workspaces as care for shared state. Complete. |
-| writing-skills | reframe | hearthands-skillwriting | durable care instructions | Needed before broad replacement. Pending. |
-| dispatching-parallel-agents | pending | hearthands-parallel-care | coordination without context loss | Needs corpus review around sustainability and fragmentation. |
-| subagent-driven-development | pending | hearthands-delegation | reviewable delegation | Needs careful framing to avoid outsourcing judgment. |
+| writing-skills | reframe | hearthands-skillwriting | durable care instructions | Complete. Skills are tactical; history moved to README. |
+| dispatching-parallel-agents | reframe | hearthands-parallel-care | coordination without context loss | Complete. Parallel work as care, not speed theater. |
+| subagent-driven-development | reframe | hearthands-delegation | reviewable delegation | Complete. Delegate with reviewable handoffs, avoid context pollution. |
 | executing-plans | reframe | hearthands-execution | steady follow-through | Should pair with planning and verification. Complete. |
 | test-driven-development | reframe | hearthands-small-promises | witnessed behavior before trust | Translate TDD into care language without losing discipline. Complete. |
 | finishing-a-development-branch | reframe | hearthands-handoff | leave the branch understandable | Connect integration choices to shared maintenance. Complete. |
 
 ## Completed Skills
+
+All Superpowers skills have been mapped to Hearthands equivalents.
 
 ### First Rewrite Batch
 
@@ -48,11 +50,11 @@ These are first because they affect agent honesty, risk, and handoff quality acr
 4. `hearthands-small-promises`: witnessed behavior before trust.
 5. `hearthands-review`: care for the next reader.
 
-## Remaining Work
+### Third Rewrite Batch
 
-- `hearthands-skillwriting`: durable care instructions (from `writing-skills`).
-- `hearthands-parallel-care`: coordination without context loss (from `dispatching-parallel-agents`).
-- `hearthands-delegation`: reviewable delegation (from `subagent-driven-development`).
+1. `hearthands-skillwriting`: durable care instructions.
+2. `hearthands-parallel-care`: coordination without context loss.
+3. `hearthands-delegation`: reviewable delegation.
 
 ## Open Questions
 

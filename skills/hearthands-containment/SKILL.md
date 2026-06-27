@@ -53,6 +53,4 @@ BRANCH=$(git branch --show-current)
 
 Report the workspace path, branch name, whether it was newly created or detected, baseline test results, and any sandbox fallback taken.
 
-## Lineage
 
-This skill draws from Git workflow discipline, sandboxing practice, and the understanding that isolation is not paranoia — it is respect for the shared state everyone else depends on.

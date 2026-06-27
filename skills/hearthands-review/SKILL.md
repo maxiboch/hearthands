@@ -65,6 +65,4 @@ Push back with technical reasoning, not defensiveness. Reference working tests a
 
 Name the review performed, the issues found and fixed, any pushback with reasoning, the verification result, and any residual risk.
 
-## Lineage
 
-This skill draws from code review practice, operations handoff, and the understanding that review is a social act with technical content. The goal is not to win or lose; it is to leave code that the next person can trust.

@@ -43,7 +43,7 @@ BRANCH=$(git branch --show-current)
 
 ## Guardrails
 
-- Do not create a worktree when Step 0 detects existing isolation.
+- Do not create a worktree when detection finds existing isolation.
 - Do not use `git worktree add` when a native worktree tool is available.
 - Do not skip ignore verification for project-local directories.
 - Do not proceed with failing baseline tests without asking.
@@ -53,6 +53,4 @@ BRANCH=$(git branch --show-current)
 
 Report the workspace path, branch name, whether it was newly created or detected, baseline test results, and any sandbox fallback taken.
 
-## Lineage
 
-This skill draws from Git workflow discipline, sandboxing practice, and the understanding that isolation is not paranoia — it is respect for the shared state everyone else depends on.

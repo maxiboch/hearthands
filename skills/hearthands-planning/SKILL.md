@@ -45,6 +45,4 @@ Each task should answer:
 
 Produce a plan with goal, assumptions, task list, file targets, verification checks, risks, and handoff notes. If the work is not ready to plan, name the missing information and the smallest next discovery step.
 
-## Lineage
 
-This skill draws from Agile planning, Adaptive Software Development, Lean Software Development, release engineering, and maintenance handoff practice. Planning is not ceremony; it is a way to make future work less lonely and less dangerous.

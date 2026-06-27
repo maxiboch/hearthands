@@ -35,6 +35,4 @@ Steady follow-through is care. Execute the plan as a living document, not a scri
 
 Report progress against the plan, name any deviations with reasons, and hand off with verification results and known risks.
 
-## Lineage
 
-This skill draws from Agile iteration, Adaptive Software Development's learning orientation, release engineering, and maintenance handoff practice. Execution is not blind marching; it is careful follow-through with room to correct course.

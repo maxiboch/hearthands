@@ -342,9 +342,7 @@ Evidence before confidence. Do not hand another person uncertainty disguised as 
 
 Name the command or inspection used, the result, and any residual risk.
 
-## Lineage
-
-Ground this in empirical software practice, test-first traditions, code review, operations handoff, and maintenance work.
+No Lineage section — history belongs in the README.
 ```
 
 ## Rewrite Quality Bar

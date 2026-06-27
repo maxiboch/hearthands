@@ -48,6 +48,4 @@ Write code before the test? Delete it. Start over.
 
 Each cycle produces a passing test, minimal production code, and a clean refactor. Before claiming the work is done, verify every new behavior has a test that failed first.
 
-## Lineage
 
-This skill draws from Extreme Programming, test-first development, and the maintenance understanding that untested code is a debt someone else will pay. TDD is not dogma; it is the cheapest way to build trust with the person who reads your code next.

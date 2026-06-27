@@ -43,6 +43,4 @@ Patient evidence before intervention. Debugging is care for reality: slow down e
 
 Report the symptom, evidence gathered, hypothesis tested, change made, verification result, and any remaining uncertainty.
 
-## Lineage
 
-This skill draws from Adaptive Software Development's learning orientation, empirical debugging practice, root-cause analysis, operations incident response, and test-driven regression work.

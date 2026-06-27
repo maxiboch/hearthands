@@ -50,6 +50,4 @@ Clear handoff is care. Present the next worker with honest options, verified sta
 
 Name the chosen path, the verification performed, the cleanup taken, and any residual risk the next maintainer should know about.
 
-## Lineage
 
-This skill draws from release engineering, Git workflow discipline, maintenance handoff, and the understanding that integration is a social act as much as a technical one.
